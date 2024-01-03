@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6c45a24e-76a7-46ba-bfe3-be396dd358fa"
+      }
+    },
+    "owner": "kaiseixd"
   }
 }
